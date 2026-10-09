@@ -84,6 +84,7 @@ The main objective of this project is to simplify the college selection process 
 ## 👩‍💻 Developed By
 
 **Priya Gade**
+
 **Sayali bhagat**
 
 Bachelor of Computer Science (BCS)
